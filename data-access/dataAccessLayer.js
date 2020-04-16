@@ -17,4 +17,5 @@ const getAllImages = async () => {
 
     return data
 }
+module.exports = {getAllImages}
 
